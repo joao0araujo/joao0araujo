@@ -1,11 +1,10 @@
 ## Olá Mundo!
-<br>
+
 - 🔭 Atualmente cursando Ciência da Computação na UFBA
 - 🌱 Estudando Python e PHP
 - 📫 Email: araujo.vitor2018@gmail.com
 
 ##
-<br>
 <div>
   <a href="https://github.com/joao0araujo">
   <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0araujo&layout=donut-vertical&theme=dracula&custom_title=Linguagens">
