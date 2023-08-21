@@ -1,5 +1,5 @@
 ## Olá Mundo!
-<br>
+
 - 🔭 Atualmente cursando Ciência da Computação na UFBA
 - 🌱 Estudando Python e PHP
 
