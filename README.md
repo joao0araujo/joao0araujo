@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente cursando Ciência da Computação na UFBA
 - 🌱 Estudando Python e PHP
-
 ##
 <div>
   <a href="https://github.com/joao0araujo">
