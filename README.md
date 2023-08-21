@@ -4,9 +4,10 @@
 - 🌱 Estudando Python e PHP
 
 ##
+<br>
 <div>
   <a href="https://github.com/joao0araujo">
-  <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0araujo&layout=donut-vertical&theme=dracula&custom_title=Linguagens">
+  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0araujo&layout=compact&theme=dracula&custom_title=Linguagens">
 </div>
     
 <br> 
