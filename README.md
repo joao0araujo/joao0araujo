@@ -1,8 +1,9 @@
 ## Olá Mundo!
-
+<br>
 - 🔭 Atualmente cursando Ciência da Computação na UFBA
 - 🌱 Estudando Python e PHP
 - 📫 Email: araujo.vitor2018@gmail.com
+
 ##
 <br>
 <div>
