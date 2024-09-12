@@ -1,7 +1,7 @@
 ## Olá Mundo!
 
 - 🔭 Atualmente cursando Ciência da Computação na UFBA
-- 🌱 Estudando Python e PHP
+- 🌱 Estudando Python e TypeScript
 
 ##
 <br>
