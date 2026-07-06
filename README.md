@@ -7,7 +7,7 @@
 <br> 
 <div>
   <a href="https://github.com/joao0araujo">
-  <img width="410em" src="https://github-stats-extended.vercel.app/api?username=joao0araujo&layout=compact&theme=dracula&custom_title=Linguagens">
+  <img width="410em" src="https://github-stats-extended.vercel.app/api/top-langs?username=joao0araujo&layout=compact&langs_count=4&theme=dracula">
 </div>
     
 <br> 
