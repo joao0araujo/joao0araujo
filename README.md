@@ -4,10 +4,10 @@
 - 🌱 Estudando Python e TypeScript
 
 ##
-<br>
+<br> 
 <div>
   <a href="https://github.com/joao0araujo">
-  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0araujo&layout=compact&theme=dracula&custom_title=Linguagens">
+  <img width="410em" src="https://github-stats-extended.vercel.app/api?username=joao0araujo&layout=compact&theme=dracula&custom_title=Linguagens">
 </div>
     
 <br> 
@@ -18,7 +18,7 @@
   <img align="center" width="55" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" width="55" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" width="55" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" width="55" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" width="55" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 </div>
 
 ##
